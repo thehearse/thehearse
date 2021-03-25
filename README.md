@@ -1,0 +1,1 @@
+If you are interested in the hugo theme used on my website, please consider opening an issue on its repository. I will compile it together and release the source. For now it would only add work to me, but I am willing to release it at once. The source of the public website is available now.
